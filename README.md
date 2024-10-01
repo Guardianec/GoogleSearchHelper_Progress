@@ -17,9 +17,17 @@
 ![image](https://github.com/user-attachments/assets/e65653b1-b18a-4115-b367-c0079d36e0d0)
 
 ![Screenshot 2024-10-01 220828](https://github.com/user-attachments/assets/6f68317d-6fed-4a9a-82f6-dd25146ab3d8)
-#OR
-#Dark Mode
+
+
+OR
+Dark Mode
+
+
 ![image](https://github.com/user-attachments/assets/1cc65788-80bd-435f-8359-4b277a8827ff)
 ![image](https://github.com/user-attachments/assets/51c87163-0034-4023-a4f2-ec06507a1ce9)
-#Light Mode
+
+
+Light Mode
+
 ![image](https://github.com/user-attachments/assets/198dd911-dbec-44eb-9032-71bbf1da1411)
+
