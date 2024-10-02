@@ -13,7 +13,7 @@
 
 
 
-#0.2.1/NEWEST
+#0.2.1
 
 ![image](https://github.com/user-attachments/assets/e65653b1-b18a-4115-b367-c0079d36e0d0)
 
@@ -32,3 +32,21 @@ Light Mode
 
 ![image](https://github.com/user-attachments/assets/198dd911-dbec-44eb-9032-71bbf1da1411)
 
+#0.2.2/NEWEST
+
+
+![image](https://github.com/user-attachments/assets/f12f430c-a9cc-4345-a12e-0309bb012692)
+
+
+![image](https://github.com/user-attachments/assets/0a30e178-aaba-4863-951a-856a3215984f)
+
+
+![image](https://github.com/user-attachments/assets/7bc81d30-67bd-4f71-99d0-80c7ce374095)
+
+
+![image](https://github.com/user-attachments/assets/19517f61-3550-4a6a-942d-d4826e18ff29)
+
+
+![image](https://github.com/user-attachments/assets/69e9df93-550f-4769-a465-0b00694dc6fa)
+
+![image](https://github.com/user-attachments/assets/07f93afc-169f-4987-b7e3-6e43cfc54084)
